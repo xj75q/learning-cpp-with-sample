@@ -1,4 +1,4 @@
-### learning-cpp-with-sample
+### learning-cpp-with-sample( learning-C++with-sample)
 
 #### 【C++学习教程】
 本整理自网络，适合有其他语言背景的人学习。 由于网上的教程文字太多，代码太少，导致人学完了学了个“寂寞“，也不知道学了个啥。
